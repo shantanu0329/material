@@ -110,13 +110,6 @@
   dependencies:
     tslib "^1.9.0"
 
-"@angular/animations@~8.0.0":
-  version "8.0.0"
-  resolved "https://registry.yarnpkg.com/@angular/animations/-/animations-8.0.0.tgz#6286094babdb3879f7aefcd73aa31772469e50b4"
-  integrity sha512-hggSRi83rmocLwzrKZtmFcqPdivKSJqp2yiYaiNmJ2yQWJ1JW/Lurypv9H347RWxmwCCwC2kV8embTGbOXIFDQ==
-  dependencies:
-    tslib "^1.9.0"
-
 "@angular/cdk@angular/cdk-builds":
   version "8.0.0-98b880b"
   resolved "https://codeload.github.com/angular/cdk-builds/tar.gz/765d2c8f91c8d24e8bdb1daf669716ff113d8e4c"
@@ -4723,9 +4716,9 @@ path-key@^2.0.0, path-key@^2.0.1:
   integrity sha1-QRyttXTFoUDTpLGRDUDYDMn0C0A=
 
 path-parse@^1.0.6:
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.6.tgz#d62dbb5679405d72c4737ec58600e9ddcf06d24c"
-  integrity sha512-GSmOT2EbHrINBf9SR7CDELwlJ8AENk3Qn7OikK4nFYAu3Ote2+JYNVvkpAEQm3/TLNEJFD/xZJjzyxg3KBWOzw==
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.7.tgz#fbc114b60ca42b30d9daf5858e4bd68bbedb6735"
+  integrity sha512-LDJzPVEEEPR+y48z93A0Ed0yXb8pAByGWo/k5YYdYgpY2/2EsOsksJrq7lOHxryrVOn1ejG6oAp8ahvOIQD8sw==
 
 path-to-regexp@0.1.7:
   version "0.1.7"
